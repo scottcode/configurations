@@ -2,8 +2,8 @@
 
 
 # set up for me
-git config --global user.email dlovell@gmail.com
-git config --global user.name dlovell
+git config --global user.email scott.hajek@gmail.com
+git config --global user.name scottcode
 
 # customize
 git config --global color.diff auto
